@@ -1,6 +1,8 @@
-body {
-	background-color: rgb(255,235,235);
+﻿body 
+{
+	background-color: rgb(255,240,240);
 }
-h1, p {
+h1, p 
+{
 	text-align: center;
 }
